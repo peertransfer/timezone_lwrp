@@ -19,4 +19,4 @@
 # limitations under the License.
 #
 
-timezone 'Europe/Moscow'
+timezone_lwrp 'Europe/Moscow'
